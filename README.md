@@ -1,6 +1,3 @@
-Aqui está o texto com todas as alterações que você mencionou, agora ajustado e completo:
-
----
 
 ### **CTI-P4-POO-20242-LISTA02**
 
@@ -111,11 +108,3 @@ Esse repositório visa ajudar os alunos a entender melhor a aplicação da POO c
 10. **Corrigir provas de múltipla escolha, calcular a nota dos alunos e a porcentagem de aprovação.**  
    - **Objetivo**: Corrigir respostas de alunos, calcular a nota e determinar a porcentagem de aprovação (mínimo 6).  
    - [**Exemplo de solução**](https://github.com/ThFoxs2/CTI-P4-POO-20242-LISTA03/blob/main/CAP06/EXERCIC%C3%8DOS-RESOLVIDOS/EXE10/src/br/edu/principal/Principal.java)
-
----
-
-**Nota**: Para cada exercício, clique no link fornecido para visualizar o exemplo de solução.
-
----
-
-Agora a lista de exercícios está completa e estruturada, com o "Como usar" e os links para os exemplos de soluções de cada questão.
